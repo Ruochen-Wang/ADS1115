@@ -1,6 +1,6 @@
 # ADS1115
 
-Requirement: pip3 install Adafruit-Blinka
+Requirement: Adafruit-Blinka, Adafruit-BBIO
 
 This project contains a python file that allows microprocessors to communicate with ADS1115 under I2C protocol. The program only requires 2 libraries, busio and board. (Although the time library is imported, it serves no function in the method).
 
